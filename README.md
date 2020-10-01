@@ -910,3 +910,8 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+
+![semicolon](./images/Semicolon.jpg)
+
